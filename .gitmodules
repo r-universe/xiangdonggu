@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "icensmis"]
+	path = icensmis
+	url = https://github.com/xiangdonggu/icensmis
+	shallow = true
+	registered = true
+[submodule "straweib"]
+	path = straweib
+	url = https://github.com/xiangdonggu/straweib
+	shallow = true
+	registered = true

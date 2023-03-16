@@ -1,0 +1,10 @@
+[
+  {
+    "package": "icensmis",
+    "oncran": true
+  },
+  {
+    "package": "straweib",
+    "oncran": true
+  }
+]
